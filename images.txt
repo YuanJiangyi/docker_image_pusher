@@ -1,1 +1,1 @@
-1panel/maxkb
+1panel/maxkb:latest
