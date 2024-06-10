@@ -1,1 +1,1 @@
-1panel/maxkb:latest
+lhrbest/oracle_11g_ee_lhr_11.2.0.4:1.0
