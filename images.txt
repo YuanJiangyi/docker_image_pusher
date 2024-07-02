@@ -1,1 +1,1 @@
-skilyxx/zlmediakit-arm64
+--platform=linux/arm64 skilyxx/zlmediakit-arm64
